@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Lesson5Guess {
-    private static final int NUMBER_RANGE = 10;
+    static final int NUMBER_RANGE = 10;
 
     public static void main(String[] args) {
         Random rnd = new Random();
